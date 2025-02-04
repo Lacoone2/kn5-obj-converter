@@ -10,7 +10,7 @@ The output .obj files can be opened in any editor, such as Blender, or in game e
 The script has a simple command line interface, which requires the path to the model directory as argument. The converter can be used as follows:
 
 ```bash
-$ python convert.py ./path/to/model
+https://www.assettohub.com/car/honda-civic-hector-fast-and-furious/
 ```
 
 Use the following command to view the CLI options:
